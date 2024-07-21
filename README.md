@@ -49,3 +49,13 @@ Well-done!!!
 
 Total chances: 3
 Remark: Excellent!
+
+
+## Code Explanation
+The main logic of the game is contained within a while loop that continues until the correct number is guessed or the player decides to quit by entering `404`. The game gives feedback based on the player's input to help them guess the number correctly. At the end of the game, a remark is given based on the number of attempts made.
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+- Vishal Kashyap(https://www.linkedin.com/in/vishal-kashyap-68535a253)
