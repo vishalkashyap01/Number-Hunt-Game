@@ -33,3 +33,19 @@ The Number Guessing Game is a simple Java console application where the player a
     ```
 
 ## Example Gameplay
+<<< Welcome 2 Number Guessing Game >>>
+
+---Guess a number between 1 to 100---
+for exit game - 404!
+>>> : 50
+
+big & close...keep decreasing!
+>>> : 25
+
+small...increase number!
+>>> : 35
+
+Well-done!!!
+
+Total chances: 3
+Remark: Excellent!
